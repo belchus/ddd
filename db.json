@@ -12,6 +12,7 @@
       },
       {
         "id": 2,
+        "iddd": 3,
         "nombre": "Celular",
         "tipo": "Celular",
         "cantidad": 1,
