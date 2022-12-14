@@ -1,0 +1,61 @@
+{
+    "stockProductos": [
+      {
+        "id": 1,
+        "nombre": "Television",
+        "tipo": "TV",
+        "cantidad": 1,
+        "desc": "TV Smart TV Samsung 50 Pulgadas",
+        "precio": 75000,
+        "img": "./img/TV50.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Celular",
+        "tipo": "Celular",
+        "cantidad": 1,
+        "desc": "Motorala E20 8 GB Ram",
+        "precio": 50000,
+        "img": "./img/E20.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Heladera",
+        "cantidad": 1,
+        "desc": "Whirlpool No Frost",
+        "precio": 130000,
+        "img": "./img/heladera.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Parlante",
+        "tipo": "Parlante",
+        "cantidad": 1,
+        "desc": "Parlante JBL Portatil",
+        "precio": 40000,
+        "img": "./img/JBL.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Licuadora",
+        "tipo": "Licuadora",
+        "cantidad": 1,
+        "desc": "Licuadora Smart Life",
+        "precio": 15000,
+        "img": "./img/licuadora.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Tostadora",
+        "tipo": "Tostadora",
+        "cantidad": 1,
+        "desc": "Tostadora Smart Life",
+        "precio": 25000,
+        "img": "./img/tostadora.jpg"
+      }
+    ],
+  
+    "profile": {
+      "name": "MatiMarchesini"
+    }
+  }
