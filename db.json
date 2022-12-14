@@ -2,6 +2,7 @@
     "stockProductos": [
       {
         "id": 1,
+        "iddd": 2,
         "nombre": "Television",
         "tipo": "TV",
         "cantidad": 1,
